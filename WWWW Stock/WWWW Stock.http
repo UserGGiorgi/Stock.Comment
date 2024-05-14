@@ -1,0 +1,6 @@
+@WWWW_Stock_HostAddress = http://localhost:5007
+
+GET {{WWWW_Stock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
